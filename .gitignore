@@ -1,0 +1,6 @@
+# Ignore all .idea files
+.idea
+*.iml
+
+# Ignore build output directory
+target
